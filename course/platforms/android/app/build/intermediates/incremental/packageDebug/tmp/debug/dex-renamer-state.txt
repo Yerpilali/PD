@@ -1,0 +1,4 @@
+#Wed Jun 09 18:26:14 YEKT 2021
+base.0=C\:\\Edu\\Project\\course\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

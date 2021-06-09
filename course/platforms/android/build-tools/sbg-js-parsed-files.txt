@@ -1,0 +1,4 @@
+C:\Edu\Project\course\platforms\android\app\src\main\assets\app\bundle.js
+C:\Edu\Project\course\platforms\android\app\src\main\assets\app\runtime.js
+C:\Edu\Project\course\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\Edu\Project\course\platforms\android\app\src\main\assets\app\vendor.js
